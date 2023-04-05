@@ -1,6 +1,6 @@
 name: stopwordies
 description: A multilingual collection of stopwords (using ISO 639-1 language codes) for Dart/Flutter.
-version: 0.1.0
+version: 1.0.0
 homepage: https://github.com/maranathApp/stopwordies
 repository: https://github.com/maranathApp/stopwordies
 platforms:
