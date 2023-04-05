@@ -1,3 +1,5 @@
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
 A multilingual collection of stopwords (using [ISO 639-1](http://www.loc.gov/standards/iso639-2/php/code_list.php) language codes) for Dart/Flutter.
 
 ## Features
